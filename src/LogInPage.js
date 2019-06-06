@@ -7,7 +7,7 @@ const LogInPage = () => {
   const { t } = useTranslation(); 
   return (
     <I18nextProvider>
-      <h2>{t('HelloText')}</h2> 
+      <h2>{t('login:HelloText')}</h2> 
     </I18nextProvider>
   ); 
 }
