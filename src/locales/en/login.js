@@ -1,3 +1,3 @@
 export const login = {
-  HelloText: "Hello World!"
+  HelloText: "Hello from Index!"
 }
