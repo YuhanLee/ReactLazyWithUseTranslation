@@ -6,7 +6,7 @@ const LogInPage = () => {
   const { t } = useTranslation(); 
 
   return (
-    <h2>{t('Hello')}</h2> 
+    <h2>{t('HelloText')}</h2> 
   ); 
 }
 
